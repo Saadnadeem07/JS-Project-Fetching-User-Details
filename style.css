@@ -1,0 +1,70 @@
+/* General styling for body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ecdfcc;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Heading styling */
+h1 {
+  font-size: 2em;
+  color: #333;
+}
+
+/* Styling for subheadings */
+h2 {
+  font-size: 1.5em;
+  color: #555;
+}
+
+/* Button styling */
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 1.1em;
+  color: #666;
+  margin: 10px 0;
+}
+
+/* Divider line styling */
+hr {
+  margin: 20px auto;
+  width: 80%;
+  border: 1px solid black;
+}
+/* Box container styling */
+.info-box {
+  background-color: #eee2b5;
+  padding: 20px;
+  margin: 20px auto;
+  border: 1px solid black;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.3) 5px 19px 38px,
+    rgba(0, 0, 0, 0.22) 5px 15px 12px;
+  box-shadow: 5px 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  text-align: left;
+}
+/* Styling for paragraphs inside the info box */
+.info-box p {
+  font-size: 1.1em;
+  color: #333;
+  margin: 10px 0;
+}
