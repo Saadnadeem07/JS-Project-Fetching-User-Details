@@ -34,7 +34,7 @@ This project is a JavaScript-based application that fetches and displays user in
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![Page Screenshot](screenshot.png)
 
 ## License
 
